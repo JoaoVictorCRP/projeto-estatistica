@@ -1,0 +1,33 @@
+,ID,Nome do Console,Tipo,Fabricante,Ano de Lançamento,Ano de Descontinuacao,Unidades vendidas (Milhões),Geração
+0,PS2,PlayStation 2,Home,Sony,2000,2013,155.0,Sexta
+1,DS,Nintendo DS,Handheld,Nintendo,2004,2013,154.02,Sexta
+2,NSW,Nintendo Switch,Hybrid,Nintendo,2017,0,122.55,Oitava
+3,GBC,Game Boy Color,Handheld,Nintendo,1998,2003,44.06,Sexta
+4,PS4,PlayStation 4,Home,Sony,2013,0,117.2,Oitava
+5,PS,PlayStation,Home,Sony,1994,2006,102.49,Quinta
+6,Wii,Nintendo Wii,Home,Nintendo,2006,2013,101.63,Sétima
+7,PS3,PlayStation 3,Home,Sony,2006,2017,87.4,Sétima
+8,X360,Xbox 360,Home,Microsoft,2005,2016,84.0,Sétima
+9,GBA,Game Boy Advance,Handheld,Nintendo,2001,2010,81.51,Sexta
+10,PSP,PlayStation Portable,Handheld,Sony,2004,2014,82.0,Sexta
+11,3DS,Nintendo 3DS,Handheld,Nintendo,2011,2020,75.94,Sétima
+12,NG,NeoGeo,Home,SNK,1990,1997,1.18,Quarta
+13,NES,NES,Home,Nintendo,1983,2003,61.91,Terceira
+14,XOne,Xbox One,Home,Microsoft,2013,2020,58.5,Oitava
+15,SNES,Super Nintendo,Home,Nintendo,1990,2003,49.1,Quarta
+16,N64,Nintendo 64,Home,Nintendo,1996,2002,32.93,Quinta
+17,GEN,Sega Mega Drive,Home,Sega,1988,1997,30.75,Quarta
+18,PS5,PlayStation 5,Home,Sony,2020,0,30.0,Oitava
+19,2600,Atari 2600,Home,Atari,1977,1992,30.0,Segunda
+20,WS,WonderSwan,Handheld,Bandai,1999,2003,3.5,Sexta
+21,XB,Xbox,Home,Microsoft,2001,2009,24.0,Sexta
+22,GC,GameCube,Home,Nintendo,2001,2007,21.74,Sexta
+23,XSS,Xbox Series X/S,Home,Microsoft,2020,0,18.5,Oitava
+24,WiiU,Wii U,Home,Nintendo,2012,2017,13.56,Oitava
+25,PSV,PlayStation Vita,Handheld,Sony,2011,2019,15.0,Sétima
+26,GG,Sega Game Gear,Handheld,Sega,1990,1997,10.62,Quarta
+27,TG16,TurboGrafx-16,Home,NEC/Hudson Soft,1987,1994,10.0,Terceira
+28,SAT,Sega Saturn,Home,Sega,1994,2000,9.26,Quinta
+29,DC,Dreamcast,Home,Sega,1998,2001,9.13,Sexta
+30,SCD,Sega CD,Home,Sega,1991,1996,2.24,Quarta
+31,3D0,3DO,Home,Panasonic,1994,1996,2.0,Quinta
