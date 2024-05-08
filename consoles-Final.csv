@@ -1,33 +1,33 @@
-ID,Nome do Console,Tipo,Fabricante,Ano de Lançamento,Ano de Descontinuacao,Unidades vendidas (Milhões),Geração
-PS2,PlayStation 2,Home,Sony,2000,2013,155.0,Sexta
-DS,Nintendo DS,Handheld,Nintendo,2004,2013,154.02,Sexta
-NSW,Nintendo Switch,Hybrid,Nintendo,2017,0,122.55,Oitava
-GBC,Game Boy Color,Handheld,Nintendo,1998,2003,44.06,Sexta
-PS4,PlayStation 4,Home,Sony,2013,0,117.2,Oitava
-PS,PlayStation,Home,Sony,1994,2006,102.49,Quinta
-Wii,Nintendo Wii,Home,Nintendo,2006,2013,101.63,Sétima
-PS3,PlayStation 3,Home,Sony,2006,2017,87.4,Sétima
-X360,Xbox 360,Home,Microsoft,2005,2016,84.0,Sétima
-GBA,Game Boy Advance,Handheld,Nintendo,2001,2010,81.51,Sexta
-PSP,PlayStation Portable,Handheld,Sony,2004,2014,82.0,Sexta
-3DS,Nintendo 3DS,Handheld,Nintendo,2011,2020,75.94,Sétima
-NG,NeoGeo,Home,SNK,1990,1997,1.18,Quarta
-NES,NES,Home,Nintendo,1983,2003,61.91,Terceira
-XOne,Xbox One,Home,Microsoft,2013,2020,58.5,Oitava
-SNES,Super Nintendo,Home,Nintendo,1990,2003,49.1,Quarta
-N64,Nintendo 64,Home,Nintendo,1996,2002,32.93,Quinta
-GEN,Sega Mega Drive,Home,Sega,1988,1997,30.75,Quarta
-PS5,PlayStation 5,Home,Sony,2020,0,30.0,Oitava
-2600,Atari 2600,Home,Atari,1977,1992,30.0,Segunda
-WS,WonderSwan,Handheld,Bandai,1999,2003,3.5,Sexta
-XB,Xbox,Home,Microsoft,2001,2009,24.0,Sexta
-GC,GameCube,Home,Nintendo,2001,2007,21.74,Sexta
-XSS,Xbox Series X/S,Home,Microsoft,2020,0,18.5,Oitava
-WiiU,Wii U,Home,Nintendo,2012,2017,13.56,Oitava
-PSV,PlayStation Vita,Handheld,Sony,2011,2019,15.0,Sétima
-GG,Sega Game Gear,Handheld,Sega,1990,1997,10.62,Quarta
-TG16,TurboGrafx-16,Home,NEC/Hudson Soft,1987,1994,10.0,Terceira
-SAT,Sega Saturn,Home,Sega,1994,2000,9.26,Quinta
-DC,Dreamcast,Home,Sega,1998,2001,9.13,Sexta
-SCD,Sega CD,Home,Sega,1991,1996,2.24,Quarta
-3D0,3DO,Home,Panasonic,1994,1996,2.0,Quinta
+ID,Nome do Console,Tipo,Fabricante,Ano de Lançamento,Ano de Descontinuacao,Unidades vendidas (Milhões),Geração,Duracao no Mercado
+PS2,PlayStation 2,Home,Sony,2000,2013,155.0,Sexta,13
+DS,Nintendo DS,Handheld,Nintendo,2004,2013,154.02,Sexta,9
+NSW,Nintendo Switch,Hybrid,Nintendo,2017,0,122.55,Oitava,7
+GBC,Game Boy Color,Handheld,Nintendo,1998,2003,44.06,Sexta,5
+PS4,PlayStation 4,Home,Sony,2013,0,117.2,Oitava,11
+PS,PlayStation,Home,Sony,1994,2006,102.49,Quinta,12
+Wii,Nintendo Wii,Home,Nintendo,2006,2013,101.63,Sétima,7
+PS3,PlayStation 3,Home,Sony,2006,2017,87.4,Sétima,11
+X360,Xbox 360,Home,Microsoft,2005,2016,84.0,Sétima,11
+GBA,Game Boy Advance,Handheld,Nintendo,2001,2010,81.51,Sexta,9
+PSP,PlayStation Portable,Handheld,Sony,2004,2014,82.0,Sexta,10
+3DS,Nintendo 3DS,Handheld,Nintendo,2011,2020,75.94,Sétima,9
+NG,NeoGeo,Home,SNK,1990,1997,1.18,Quarta,7
+NES,NES,Home,Nintendo,1983,2003,61.91,Terceira,20
+XOne,Xbox One,Home,Microsoft,2013,2020,58.5,Oitava,7
+SNES,Super Nintendo,Home,Nintendo,1990,2003,49.1,Quarta,13
+N64,Nintendo 64,Home,Nintendo,1996,2002,32.93,Quinta,6
+GEN,Sega Mega Drive,Home,Sega,1988,1997,30.75,Quarta,9
+PS5,PlayStation 5,Home,Sony,2020,0,30.0,Oitava,4
+2600,Atari 2600,Home,Atari,1977,1992,30.0,Segunda,15
+WS,WonderSwan,Handheld,Bandai,1999,2003,3.5,Sexta,4
+XB,Xbox,Home,Microsoft,2001,2009,24.0,Sexta,8
+GC,GameCube,Home,Nintendo,2001,2007,21.74,Sexta,6
+XSS,Xbox Series X/S,Home,Microsoft,2020,0,18.5,Oitava,4
+WiiU,Wii U,Home,Nintendo,2012,2017,13.56,Oitava,5
+PSV,PlayStation Vita,Handheld,Sony,2011,2019,15.0,Sétima,8
+GG,Sega Game Gear,Handheld,Sega,1990,1997,10.62,Quarta,7
+TG16,TurboGrafx-16,Home,NEC/Hudson Soft,1987,1994,10.0,Terceira,7
+SAT,Sega Saturn,Home,Sega,1994,2000,9.26,Quinta,6
+DC,Dreamcast,Home,Sega,1998,2001,9.13,Sexta,3
+SCD,Sega CD,Home,Sega,1991,1996,2.24,Quarta,5
+3D0,3DO,Home,Panasonic,1994,1996,2.0,Quinta,2
