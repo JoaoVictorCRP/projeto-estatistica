@@ -1,33 +1,33 @@
 ID,Nome do Console,Tipo,Fabricante,Ano de Lançamento,Ano de Descontinuacao,Unidades vendidas (Milhões),Geração,Duracao no Mercado
-PS2,PlayStation 2,Home,Sony,2000,2013,155.0,6,13
-DS,Nintendo DS,Handheld,Nintendo,2004,2013,154.02,6,9
-NSW,Nintendo Switch,Hybrid,Nintendo,2017,0,122.55,8,7
-GB,Game Boy Color,Handheld,Nintendo,1998,2003,44.06,6,5
-PS4,PlayStation 4,Home,Sony,2013,0,117.2,8,11
-PS,PlayStation,Home,Sony,1994,2006,102.49,5,12
-Wii,Nintendo Wii,Home,Nintendo,2006,2013,101.63,7,7
-PS3,PlayStation 3,Home,Sony,2006,2017,87.4,7,11
-X360,Xbox 360,Home,Microsoft,2005,2016,84.0,7,11
-GBA,Game Boy Advance,Handheld,Nintendo,2001,2010,81.51,6,9
-PSP,PlayStation Portable,Handheld,Sony,2004,2014,82.0,6,10
-3DS,Nintendo 3DS,Handheld,Nintendo,2011,2020,75.94,7,9
-NG,NeoGeo,Home,SNK,1990,1997,1.18,4,7
-NES,NES,Home,Nintendo,1983,2003,61.91,3,20
-XOne,Xbox One,Home,Microsoft,2013,2020,58.5,8,7
-SNES,Super Nintendo,Home,Nintendo,1990,2003,49.1,4,13
-N64,Nintendo 64,Home,Nintendo,1996,2002,32.93,5,6
-GEN,Sega Mega Drive,Home,Sega,1988,1997,30.75,4,9
-PS5,PlayStation 5,Home,Sony,2020,0,30.0,8,4
-2600,Atari 2600,Home,Atari,1977,1992,30.0,2,15
-WS,WonderSwan,Handheld,Bandai,1999,2003,3.5,6,4
-XB,Xbox,Home,Microsoft,2001,2009,24.0,6,8
-GC,GameCube,Home,Nintendo,2001,2007,21.74,6,6
-XSS,Xbox Series X/S,Home,Microsoft,2020,0,18.5,8,4
-WiiU,Wii U,Home,Nintendo,2012,2017,13.56,8,5
-PSV,PlayStation Vita,Handheld,Sony,2011,2019,15.0,7,8
-GG,Sega Game Gear,Handheld,Sega,1990,1997,10.62,4,7
-TG16,TurboGrafx-16,Home,NEC/Hudson Soft,1987,1994,10.0,3,7
-SAT,Sega Saturn,Home,Sega,1994,2000,9.26,5,6
-DC,Dreamcast,Home,Sega,1998,2001,9.13,6,3
-SCD,Sega CD,Home,Sega,1991,1996,2.24,4,5
-3D0,3DO,Home,Panasonic,1994,1996,2.0,5,2
+PS2,PlayStation 2,De mesa,Sony,2000,2013,155.0,6,13
+DS,Nintendo DS,Portátil,Nintendo,2004,2013,154.02,6,9
+NSW,Nintendo Switch,Híbrido,Nintendo,2017,0,122.55,8,7
+GB,Game Boy Color,Portátil,Nintendo,1998,2003,44.06,6,5
+PS4,PlayStation 4,De mesa,Sony,2013,0,117.2,8,11
+PS,PlayStation,De mesa,Sony,1994,2006,102.49,5,12
+Wii,Nintendo Wii,De mesa,Nintendo,2006,2013,101.63,7,7
+PS3,PlayStation 3,De mesa,Sony,2006,2017,87.4,7,11
+X360,Xbox 360,De mesa,Microsoft,2005,2016,84.0,7,11
+GBA,Game Boy Advance,Portátil,Nintendo,2001,2010,81.51,6,9
+PSP,PlayStation Portable,Portátil,Sony,2004,2014,82.0,6,10
+3DS,Nintendo 3DS,Portátil,Nintendo,2011,2020,75.94,7,9
+NG,NeoGeo,De mesa,SNK,1990,1997,1.18,4,7
+NES,NES,De mesa,Nintendo,1983,2003,61.91,3,20
+XOne,Xbox One,De mesa,Microsoft,2013,2020,58.5,8,7
+SNES,Super Nintendo,De mesa,Nintendo,1990,2003,49.1,4,13
+N64,Nintendo 64,De mesa,Nintendo,1996,2002,32.93,5,6
+GEN,Sega Mega Drive,De mesa,Sega,1988,1997,30.75,4,9
+PS5,PlayStation 5,De mesa,Sony,2020,0,30.0,8,4
+2600,Atari 2600,De mesa,Atari,1977,1992,30.0,2,15
+WS,WonderSwan,Portátil,Bandai,1999,2003,3.5,6,4
+XB,Xbox,De mesa,Microsoft,2001,2009,24.0,6,8
+GC,GameCube,De mesa,Nintendo,2001,2007,21.74,6,6
+XSS,Xbox Series X/S,De mesa,Microsoft,2020,0,18.5,8,4
+WiiU,Wii U,De mesa,Nintendo,2012,2017,13.56,8,5
+PSV,PlayStation Vita,Portátil,Sony,2011,2019,15.0,7,8
+GG,Sega Game Gear,Portátil,Sega,1990,1997,10.62,4,7
+TG16,TurboGrafx-16,De mesa,NEC/Hudson Soft,1987,1994,10.0,3,7
+SAT,Sega Saturn,De mesa,Sega,1994,2000,9.26,5,6
+DC,Dreamcast,De mesa,Sega,1998,2001,9.13,6,3
+SCD,Sega CD,De mesa,Sega,1991,1996,2.24,4,5
+3D0,3DO,De mesa,Panasonic,1994,1996,2.0,5,2
